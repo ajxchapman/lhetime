@@ -15,6 +15,7 @@ awards:
   second:
     - "jonathanbouman"
     - "zseano"
+  third:
   exterminator:
     - "fransrosen"
     - "avlidienbrunn"
@@ -28,3 +29,5 @@ awards:
 evidence:
   awards: https://x.com/Hacker0x01/status/1689135689579843584
   program:
+comment: |
+  No third place was recorded, as the first and second place awards were given to teams.

@@ -1,0 +1,25 @@
+platform: HackerOne
+title: H1-702
+program: multi
+location: Las Vegas, Nevada, USA
+art: https://hackathon-photos.hackerone-user-content.com/000/000/020/b1a224a195dda1c23236750557b1a2d3ba4bc0a0_original.png
+leaderboard: https://leaderboards.hackerone.live/h1-702-2018
+bounty: 539712
+links:
+  - H1-702-1
+  - H1-702-2
+  - H1-702-3
+  - H1-702-4
+  - H1-702-5
+awards:
+  mvh: "intidc"
+  assassin: "cache-money"
+  exalted: "try_to_hack"
+  exterminator: "try_to_hack"
+  first:
+  second:
+  third:
+evidence:
+  awards: https://www.hackerone.com/ethical-hacker/h1-702-2018-makes-history-over-500k-bounties-paid
+  program: https://www.hackerone.com/ethical-hacker/h1-702-2018-makes-history-over-500k-bounties-paid
+comment:

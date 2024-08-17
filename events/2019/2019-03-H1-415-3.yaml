@@ -1,0 +1,17 @@
+platform: HackerOne
+title: H1-415 - Day 3
+program: vzm
+location: San Francisco, California, USA
+art: https://hackathon-photos.hackerone-user-content.com/000/000/035/4907820299ab69a37c62a59074839d9eebd57f1f_original.png
+leaderboard: 
+bounty: 128000
+links:
+awards:
+  exalted: "cache-money"
+  exterminator: "0xacb"
+  assassin: "cache-money"
+  vigilante: "0xacb"   
+evidence:
+  awards: https://www.hackerone.com/ethical-hacker/airbnb-and-verizon-media-participate-3rd-annual-h1-415-live-hacking-event-including
+  program: https://www.hackerone.com/ethical-hacker/airbnb-and-verizon-media-participate-3rd-annual-h1-415-live-hacking-event-including
+comment:

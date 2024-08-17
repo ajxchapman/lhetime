@@ -11,6 +11,9 @@ awards:
   exalted: "try_to_hack"
   assassin: "intidc"
   exterminator: "try_to_hack"
+  first:
+  second:
+  third:
 evidence:
   awards: https://www.hackerone.com/vulnerability-management/paranoids-oath-take-bug-bounties-argentina-h1-5411-recap
   program: https://www.hackerone.com/vulnerability-management/paranoids-oath-take-bug-bounties-argentina-h1-5411-recap

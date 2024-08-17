@@ -10,6 +10,7 @@ awards:
   vigilante: "cdl"
   first: "cdl"
   second: "mayonaise"
+  third:
   exterminator: "mayonaise"
 evidence:
   awards: https://www.hackerone.com/hackerone-community-blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1

@@ -1,0 +1,20 @@
+platform: HackerOne
+title: H1-702
+program:
+  - panasonic_avionics
+  - sanpchat
+  - zenefits
+location: Las Vegas, Nevada, USA
+art: 
+leaderboard: 
+bounty: 150000
+links:
+awards:
+  mvh: "mlitchfield"
+  first:
+  second:
+  third:
+evidence:
+  awards: https://www.hackerone.com/ethical-hacker/viva-hack-vegas-bug-bounty-hackathon
+  program: https://www.hackerone.com/ethical-hacker/viva-hack-vegas-bug-bounty-hackathon
+comment:

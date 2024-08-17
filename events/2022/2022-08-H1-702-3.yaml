@@ -3,12 +3,13 @@ title: H1-702 - Day 3
 program: undisclosed
 location: Las Vegas, Nevada, USA
 art: https://hackathon-photos.hackerone-user-content.com/o1hpu2a3xni286e50ujf9lucuaab
-leaderboard: https://leaderboards.hackerone.live/H1-702-day-3
+leaderboard: https://leaderboards.hackerone.live/H1-702-day-2
 bounty: 2413762
 awards:
   vigilante: "jonathanbouman"
   fist: "zseano"
   second: "jonathanbouman"
+  third: "rhynorater"
   exterminator: "cr3scent"
   collaboration: 
     - "arsene_lupin"
@@ -17,3 +18,5 @@ awards:
 evidence:
   awards: https://x.com/Hacker0x01/status/1556142718497091585
   program: 
+comment: |
+  It appears as though the awards day and the leaderboard day are off by one. The leaderboard for day 2 is actually the leaderboard for day 3, and the leaderboard for day 3 is actually the leaderboard for day 2. The awards for day 2 are actually the awards for day 3, and the awards for day 3 are actually the awards for day 2.

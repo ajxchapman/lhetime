@@ -8,7 +8,8 @@ bounty: 733434
 awards:
   mvh: "rhynorater"
   first: "alexbirsan"
-  second: "82af5ddffbb795"
+  second: "avishai"
+  third: "rhynorater"
   exterminator: "ryotak"
   collaboration: 
     - "alexbirsan"
@@ -17,3 +18,5 @@ awards:
 evidence:
   awards: https://x.com/Hacker0x01/status/1573401562050953217
   program:
+comment: |
+  The awards for second place do not seem to match the leaderboard. The leaderboard shows "avishai" in second place, but the awards show "82af5ddffbb795" in second place. We have gone with the final leaderboard standings for this event.

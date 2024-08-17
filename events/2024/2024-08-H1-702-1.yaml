@@ -7,6 +7,9 @@ leaderboard: https://leaderboards.hackerone.live/lhe-h1-702-24-epic-games
 bounty: 1042364
 awards:
   vigilante: "jaren"
+  first:
+  second:
+  third:
   eradicator:
     - "82af5ddffbb795"
     - "alexbirsan"

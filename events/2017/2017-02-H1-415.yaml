@@ -1,0 +1,22 @@
+platform: HackerOne
+title: H1-415
+program: 
+ - airbnb
+ - shopify
+location: San Francisco, California, USA
+art: 
+leaderboard: 
+bounty: 100000
+links:
+awards:
+  mvh: "avlidienbrunn"
+  exalted: "nnwakelam"
+  exterminator: "bored-engineer"
+  hero: "yaworsk"
+  first:
+  second:
+  third:
+evidence:
+  awards: https://www.hackerone.com/ethical-hacker/h1-415-live-hacking-event-delivers-customers-community-and-hackers
+  program: https://www.hackerone.com/ethical-hacker/h1-415-live-hacking-event-delivers-customers-community-and-hackers
+comment:
