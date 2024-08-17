@@ -1,0 +1,19 @@
+platform: HackerOne
+title: H1-702
+program: multi
+location: Las Vegas, Nevada, USA
+art: https://hackathon-photos.hackerone-user-content.com/zDaP3Q9P5caqyQhVKyLMShnq
+leaderboard: 
+bounty: 1902668
+links:
+  - H1-702-1
+  - H1-702-2
+  - H1-702-3
+awards:
+  mvh: "inhibitor181"
+  assassin: "intidc"
+evidence:
+  awards: 
+    - https://www.hackerone.com/company-news/bringing-heat-vegas-recapping-record-breaking-h1-702
+    - https://www.hackerone.com/press-release/hackers-earn-record-1902668-during-three-day-live-hacking-event-hackerone-github-and
+  program: https://www.hackerone.com/company-news/bringing-heat-vegas-recapping-record-breaking-h1-702

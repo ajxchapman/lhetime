@@ -1,0 +1,21 @@
+platform: HackerOne
+title: H1-2103
+program: amazon
+location: Virtual
+art: 
+leaderboard: https://leaderboards.hackerone.live/h1-2103
+bounty: 832285
+links:
+awards:
+  mvh: "jonathanbouman"
+  first: "jonathanbouman"
+  second: "derision"
+  third: "zseano"
+  exterminator: "0xd0m7"
+  collaboration:
+   - "the_arch_angel"
+   - "ajxchapman"
+   - "spaceraccoon"
+evidence:
+  awards: https://www.hackerone.com/hackerone-community-blog/hack-hard-have-fun-increase-security
+  program: https://www.hackerone.com/hackerone-community-blog/hack-hard-have-fun-increase-security

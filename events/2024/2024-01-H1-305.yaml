@@ -1,0 +1,21 @@
+platform: HackerOne
+title: H1-305
+program: capital_one
+location: Miami, Florida, USA
+art: https://hackathon-photos.hackerone-user-content.com/cz8ovpd3yiw8g1gd29ofc1739bd5
+leaderboard: https://leaderboards.hackerone.live/h1-305-capitalone-miami-2024 
+bounty: 748415
+awards:
+  mvh: "archangel"
+  first: "archangel"
+  second: "rhynorater"
+  third: "avishai"
+  exterminator: "stealthy"
+  eliminator: "fr4via"
+  eradicator: 
+   - "cdl"
+   - "m0chan"
+   - "nagli"
+evidence:
+  awards: https://www.hackerone.com/lhe/capital-one-h1-305
+  program: https://www.hackerone.com/lhe/capital-one-h1-305

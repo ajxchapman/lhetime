@@ -1,0 +1,28 @@
+platform: HackerOne
+title: H1-415
+program: yahoo
+location: San Francisco, California, USA
+art: https://hackathon-photos.hackerone-user-content.com/2EF5shPDHA459wLjx6bDvTkX
+leaderboard: https://pbs.twimg.com/media/ERWg-afUYAE433Q?format=jpg&name=medium
+bounty: 707000
+links:
+awards:
+  mvh: "dawgyg"
+  first: "dawgyg"
+  second: "zlz"
+  third: "mayonaise"
+  exalted: "dawgyg"
+  exterminator: "zlz"
+  assassin: "spaceraccoon"
+  collaboration:
+    - "ajxchapman"
+    - "c0rv4x"
+    - "dki"
+    - "randomdeduction"
+evidence:
+  awards:
+  - https://www.hackerone.com/ethical-hacker/hackers-take-san-francisco-4th-year-row
+  - https://x.com/NahamSec/status/1231083601208332289
+  program: https://x.com/Hacker0x01/status/1230265516679409664
+comment: |
+  Collaboration award determined from HackerOne profile badges

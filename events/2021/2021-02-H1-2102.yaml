@@ -1,0 +1,22 @@
+platform: HackerOne
+title: H1-2102
+program: shopify
+location: Virtual
+art: https://pbs.twimg.com/media/EsNF_wUVgAAGEbI?format=png&name=large
+leaderboard: https://www.hackerone.com/sites/default/files/inline-images/Shopify%20Blog%20Post%20Image%202.png
+bounty: 274676
+links:
+awards: 
+  mvh: "ngalog"
+  first: "ngalog"
+  second: "rhynorater"
+  third: "francisbeaudoin"
+  exterminator: "ngalog"
+  collaboration:
+    - "c0rv4x"
+    - "ramsexy"
+    - "smsecurity"
+    - "the_arch_angel"
+evidence:
+  awards: https://www.hackerone.com/hackerone-community-blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1
+  program: https://www.hackerone.com/hackerone-community-blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1

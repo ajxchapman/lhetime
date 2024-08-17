@@ -1,0 +1,20 @@
+platform: HackerOne
+title: H1-2004
+program: yahoo
+location: Virtual
+art: 
+leaderboard: 
+bounty: 673000
+links:
+awards:
+  mvh: "mayonaise"
+  first: "mayonaise"
+  second: "anshuman_bh"
+  third: "cdl"
+  exterminator: "samux"
+  collaboration:
+    - "anshuman_bh"
+    - "swapnil_rpma4"
+evidence:
+  awards: https://www.hackerone.com/ethical-hacker/live-hacking-goes-virtual
+  program: https://www.hackerone.com/ethical-hacker/live-hacking-goes-virtual

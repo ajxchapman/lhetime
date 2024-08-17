@@ -1,0 +1,30 @@
+platform: HackerOne
+title: H1-702
+program: undisclosed
+location: Las Vegas, Nevada, USA
+art: https://hackathon-photos.hackerone-user-content.com/c5tbd5ysetbcrbjjmrki0egmkr3t
+leaderboard: https://leaderboards.hackerone.live/lhe-702-2023
+bounty: 2945052
+awards:
+  mvh: 
+    - "fransrosen"
+    - "avlidienbrunn"
+  first:
+    - "fransrosen"
+    - "avlidienbrunn"
+  second:
+    - "jonathanbouman"
+    - "zseano"
+  exterminator:
+    - "fransrosen"
+    - "avlidienbrunn"
+    - "inhibitor181"
+  eradicator:
+    - "meals"
+    - "yashrs"
+  collaboration:
+    - "jonathanbouman"
+    - "zseano"
+evidence:
+  awards: https://x.com/Hacker0x01/status/1689135689579843584
+  program:

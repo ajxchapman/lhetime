@@ -1,0 +1,20 @@
+platform: HackerOne
+title: H1-512
+program: github
+location: Austin, Texas, USA
+art: https://hackathon-photos.hackerone-user-content.com/ktkaajc5aad7esvqry1reqcgd9p9
+leaderboard: https://pbs.twimg.com/media/FVddW4FWUAcdtdq?format=jpg&name=medium
+bounty: 525500
+links:
+awards:
+  mvh: "ajxchapman"
+  first: "ajxchapman"
+  second: "not-an-aardvark"
+  exterminator: "ajxchapman"
+  collaboration: 
+    - "ajxchapman"
+    - "jon_bottarini"
+    - "the_arch_angel"
+evidence:
+  awards: https://x.com/Hacker0x01/status/1537623427732975617
+  program: https://x.com/Hacker0x01/status/1536397513263128579

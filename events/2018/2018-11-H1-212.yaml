@@ -1,0 +1,35 @@
+platform: HackerOne
+title: H1-212
+program: oath
+location: New York, New York, USA 
+art: https://hackathon-photos.hackerone-user-content.com/000/000/030/4edaf4291398abf0bdf8ddc1c78cdb1c6e3e0f36_original.png
+leaderboard: https://leaderboards.hackerone.live/h1-212-18-1
+bounty: 429099
+links:
+awards:
+  mvh: 
+    - "johnny"
+    - "smiegles" 
+    - "stok"
+    - "teknogeek"
+  first: "fransrosen"
+  second: "avlidienbrunn"
+  third: "meals"
+  exalted: 
+    - "avlidienbrunn"
+    - "dawgyg"
+    - "fransrosen"
+    - "meals"
+  assassin:
+    - "avlidienbrunn"
+    - "dawgyg"
+    - "fransrosen"
+    - "meals"
+  exterminator:
+    - "johnny"
+    - "smiegles"
+    - "stok"
+    - "teknogeek"
+evidence:
+  awards: https://www.hackerone.com/ethical-hacker/oaths-big-year-bug-bounties-capped-nyc-live-hacking-event
+  program: https://www.hackerone.com/ethical-hacker/oaths-big-year-bug-bounties-capped-nyc-live-hacking-event

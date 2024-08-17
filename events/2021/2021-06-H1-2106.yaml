@@ -1,0 +1,24 @@
+platform: HackerOne
+title: H1-2106
+program: paypal
+location: Virtual
+art: 
+leaderboard: https://pbs.twimg.com/media/E4q4-w_VoAUnIrE?format=jpg&name=medium
+bounty: 519068
+links:
+awards:
+  mvh: "82af5ddffbb795"
+  first: "82af5ddffbb795"
+  second: "inhibitor181"
+  third: "ngalog"
+  exterminator: "82af5ddffbb795"
+  collaboration:
+    - "ajxchapman"
+    - "dee-see"
+    - "rez0"
+    - "the_arch_angel"
+evidence:
+  awards: https://x.com/NahamSec/status/1408143841404669952
+  program: https://x.com/Hacker0x01/status/1403472183909916677
+comments: |
+  Collaboration award determined from HackerOne profile badges

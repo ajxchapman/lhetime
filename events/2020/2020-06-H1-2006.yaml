@@ -1,0 +1,25 @@
+platform: HackerOne
+title: H1-2006
+program: paypal
+location: Virtual
+art: https://hackathon-photos.hackerone-user-content.com/Hw1hHWM5KEVaRrCufUT7RoN5
+leaderboard: 
+bounty: 770000
+links:
+awards:
+  mvh: "alexbirsan"
+  exterminator: "alexbirsan"
+  first: "alexbirsan"
+  second: "nnwakelam"
+  collaboration: 
+    - "0xacb"
+    - "corb3nik"
+    - "fisher"
+    - "rhynorater"
+    - "spaceraccoon"
+    - "stok"
+    - "teknogeek"
+    - "tomnomnom"
+evidence:
+  awards: https://www.hackerone.com/vulnerability-management/paypal-our-virtual-pal
+  program: https://www.hackerone.com/vulnerability-management/paypal-our-virtual-pal

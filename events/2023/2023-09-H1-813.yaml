@@ -1,0 +1,19 @@
+platform: HackerOne
+title: H1-813
+program: paypal
+location: Tokyo, Japan
+art: https://hackathon-photos.hackerone-user-content.com/i77hk8fflwxjmbwluuo6d7rxmgzx
+leaderboard: https://leaderboards.hackerone.live/lhe-h1-813-tokyo-2023
+bounty: 1291630
+awards:
+  mvh: "shubs"
+  first: "alexbirsan"
+  second: "82af5ddffbb795"
+  exterminator: "michael1026"
+  collaboration: 
+    - "shubs"
+    - "jonathanbouman"
+    - "zseano"
+evidence:
+  awards: https://x.com/Hacker0x01/status/1704204519972950255
+  program: https://x.com/Hacker0x01/status/1806734517534650690

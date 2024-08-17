@@ -1,0 +1,21 @@
+platform: HackerOne
+title: H1-2204
+program: paypal
+location: Virtual
+art: https://www.hackerone.com/sites/default/files/inline-images/2204-logo%20%281%29_0.png
+leaderboard: https://pbs.twimg.com/media/FRTH5IeWYAAr5rb?format=jpg&name=medium
+bounty: 818500
+links:
+awards:
+  mvh: "82af5ddffbb795"
+  first: "82af5ddffbb795"
+  second: "alexbirsan"
+  third: "rhynorater"
+  exterminator: "82af5ddffbb795"
+  collaboration:
+   - "edduu"
+   - "base_64"
+   - "alexbirsan"
+evidence:
+  awards: https://www.hackerone.com/paypals-third-lhe-brings-top-global-hackers-virtual-stage
+  program: https://www.hackerone.com/paypals-third-lhe-brings-top-global-hackers-virtual-stage

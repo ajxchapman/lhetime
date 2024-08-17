@@ -1,0 +1,20 @@
+platform: HackerOne
+title: H1-2108
+program: undisclosed
+location: Virtual
+art: https://pbs.twimg.com/media/E9Ai74RXsAIITCZ?format=png&name=medium
+leaderboard: https://leaderboards.hackerone.live/h1-2108
+bounty: 177418
+links:
+awards:
+  mvh: "rhynorater"
+  first: "none_of_the_above"
+  second: "rhynorater"
+  third: "0xacb"
+  exterminator: "0xacb"
+  collaboration:
+   - "erbbysam"
+   - "rhynorater"
+evidence:
+  awards: https://x.com/Hacker0x01/status/1435309413183758338
+  program:

@@ -1,0 +1,25 @@
+platform: HackerOne
+title: H1-303
+program: undisclosed
+location: Denver, Colorado, USA
+art: https://www.hackerone.com/sites/default/files/inline-images/303-logo.png
+leaderboard: https://www.hackerone.com/sites/default/files/inline-images/Screen%20Shot%202022-07-12%20at%203.32.23%20PM.png
+bounty: 448044
+links:
+awards: 
+  mvh: "yassineaboukir"
+  first: "yassineaboukir"
+  second: "rhynorater"
+  third: "niemand_sec"
+  exterminator: 
+    - "d0xing"
+    - "m0chan"
+    - "todayisnew"
+  collaboration:
+   - "ramsexy"
+   - "rez0"
+   - "smsecurity"
+   - "the_arch_angel"
+evidence:
+  awards: https://www.hackerone.com/hackerone-community-blog/hacking-sun-and-snow-h1-303-colorado
+  program:

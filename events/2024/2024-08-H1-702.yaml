@@ -1,0 +1,19 @@
+platform: HackerOne
+title: H1-702
+program: multi
+location: Las Vegas, Nevada, USA
+art: https://hackathon-photos.hackerone-user-content.com/m60pebxhi1ri621zdbfox8whimym
+leaderboard: https://leaderboards.hackerone.live/lhe-h1-702-24-combined
+bounty: 1736192
+links:
+  - 2024-08-H1-702-1
+  - 2024-08-H1-702-2
+awards:
+  exterminator: "niemand_sec"
+  mvh:
+    - "ajxchapman"
+    - "nahamsec"
+    - "0xacb"
+evidence:
+  awards:
+  program:

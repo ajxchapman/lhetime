@@ -1,0 +1,21 @@
+platform: HackerOne
+title: H1-702 - Day 1
+program: epic_games
+location: Las Vegas, Nevada, USA
+art: https://hackathon-photos.hackerone-user-content.com/m60pebxhi1ri621zdbfox8whimym
+leaderboard: https://leaderboards.hackerone.live/lhe-h1-702-24-epic-games
+bounty: 1042364
+awards:
+  vigilante: "jaren"
+  eradicator:
+    - "82af5ddffbb795"
+    - "alexbirsan"
+  eliminator: "hacktus"
+  exterminator: 
+    - "none_of_the_above"
+    - "niemand_sec"
+    - "kcho"
+evidence:
+  awards:
+  program:
+    - https://x.com/Hacker0x01/status/1820552886968852829

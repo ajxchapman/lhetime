@@ -1,0 +1,23 @@
+platform: HackerOne
+title: H1-2010
+program: yahoo
+location: Virtual
+art: https://hackathon-photos.hackerone-user-content.com/wKR72hvLBQPjGPie4uKJqNvE
+leaderboard: 
+bounty: 702039
+links:
+  -  H1-2010-Open
+  -  H1-2010-Qualifier
+  -  H1-2010-Final
+awards:
+  mvh: "ralamosm"
+  exterminator: "mayonaise"
+  collaboration: 
+    - "hogarth45"
+    - "hussein98d"
+    - "rez0"
+    - "the_arch_angel"
+    - "todayisnew"
+evidence:
+  awards: https://www.hackerone.com/hackerone-community-blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1
+  program: https://www.hackerone.com/hackerone-community-blog/commerce-giant-shopify-kicks-2021-hackerone-virtual-live-hacking-event-h1

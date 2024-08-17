@@ -1,0 +1,27 @@
+platform: HackerOne
+title: H1-213
+program: amazon
+location: Los Angeles, California, USA
+art: https://hackathon-photos.hackerone-user-content.com/2bps0fpcwwvru07dwle1otquufbe
+leaderboard: https://leaderboards.hackerone.live/h1-213-23
+bounty: 648136
+awards:
+  mvh:
+    - "nmatt0"
+    - "randomdeduction"
+  first:
+    - "nmatt0"
+    - "randomdeduction"
+  third: "meals"
+  exterminator:
+    - "fransrosen"
+    - "meals"
+    - "nagli"
+  collaboration:
+    - "nmatt0"
+    - "randomdeduction"
+evidence:
+  awards: https://x.com/Hacker0x01/status/1651819364960595971
+  program: https://x.com/Hacker0x01/status/1683894637084266497
+comment: |
+  First and second award was a team, so skipping the second place award and going straight to third
