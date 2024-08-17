@@ -1,0 +1,20 @@
+platform: HackerOne
+title: H1-3120
+program: dropbox
+location: Amsterdam, Netherlands
+art: https://hackathon-photos.hackerone-user-content.com/000/000/015/91db5c333e4e79397f6f0056c978efb165dcb4b7_original.png
+leaderboard: 
+bounty: 80383
+links:
+awards:
+  mvh: "mrtuxracer"
+  first:
+  second:
+  third:
+  assassin: "mrtuxracer"
+  exalted: "mrtuxracer"
+  exterminator: "fransrosen"
+evidence:
+  awards: https://www.hackerone.com/ethical-hacker/live-hacking-dropbox-amsterdam-h1-3120
+  program: https://www.hackerone.com/ethical-hacker/live-hacking-dropbox-amsterdam-h1-3120
+comment:

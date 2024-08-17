@@ -1,0 +1,21 @@
+platform: HackerOne
+title: H1-212
+program: us_airforce
+location: New York, New York, USA
+art: https://hackathon-photos.hackerone-user-content.com/000/000/009/5e171f8c30f6c86d29fb3ddec6499e51b24609be_original.png
+leaderboard: https://leaderboards.hackerone.live/h1-212
+bounty: 26883
+links:
+awards:
+  mvh: "ziot"
+  first: "mlitchfield"
+  second: "fransrosen"
+  third: "intidc"
+  exterminator: "ziot"
+  exalted: "mlitchfield"
+  assassin: "johnny"
+  community: "avlidienbrunn"
+evidence:
+  awards: https://youtu.be/66MRyqASNFE?t=130
+  program: https://www.hackerone.com/ethical-hacker/hacking-us-air-force-again-new-york-city-subway-station
+comment:
