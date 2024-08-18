@@ -14,7 +14,9 @@ awards:
   exalted: "nnwakelam"
   assassin: "smsecurity"
   exterminator: "erbbysam"
-  country: "fransrosen, avlidienbrunn"
+  country:
+    - "fransrosen"
+    - "avlidienbrunn"
 evidence:
   awards: https://www.hackerone.com/ethical-hacker/h1-415-recap-oath-pays-over-400000-hackers-one-day
   program: https://www.hackerone.com/ethical-hacker/h1-415-recap-oath-pays-over-400000-hackers-one-day

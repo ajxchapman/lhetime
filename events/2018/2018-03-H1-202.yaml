@@ -2,7 +2,7 @@ platform: HackerOne
 title: H1-202
 program: mapbox
 location: Washington, D.C., United States
-art: https://hackathon-photos.hackerone-user-content.com/000/000/011/12828ef5dd634d2318dfcd0ccc1b831ed52cd9cb_original.png
+art: https://hackathon-photos.hackerone-user-content.com/L9n9ZkPyhycfCTcaokbATRjW
 leaderboard: https://pbs.twimg.com/media/DZLn2IIW4AIkCT0?format=jpg&name=medium
 bounty: 64925
 links:
@@ -14,7 +14,7 @@ awards:
   exalted: "intidc"
   assassin: "cache-money"
   exterminator: "fransrosen"
-  pioneer: "errbysam"
+  pioneer: "erbbysam"
 evidence:
   awards: https://www.hackerone.com/ethical-hacker/h1-202-recap-mapbox-pays-out-nearly-65000-one-day
   program: https://www.hackerone.com/ethical-hacker/h1-202-recap-mapbox-pays-out-nearly-65000-one-day
