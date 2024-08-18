@@ -1,0 +1,24 @@
+platform: HackerOne
+title: H1-4420
+program: salesforce
+location: London, UK
+art: https://hackathon-photos.hackerone-user-content.com/jg705t0bxsctn9nwruen01l6yj31
+leaderboard: https://leaderboards.hackerone.live/lhe-h1-4420-salesforce-uk-2023
+bounty: 496000
+links:
+awards:
+  vigilante: "82af5ddffbb795"
+  first: "82af5ddffbb795"
+  second: "egrep"
+  third: "ryotak"
+  externinator: "ryotak"
+  collaboration:
+    - "archangel"
+    - "rez0"
+    - "spaceraccoon"
+evidence:
+  awards: 
+    - https://www.hackerone.com/lhe/salesforce-h1-4420?utm_source=website&utm_medium=blog&utm_campaign=
+    - https://x.com/Hacker0x01/status/1673749757921984512
+  program: https://www.hackerone.com/lhe/salesforce-h1-4420?utm_source=website&utm_medium=blog&utm_campaign=
+comment:

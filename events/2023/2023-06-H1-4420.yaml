@@ -1,15 +1,15 @@
 platform: HackerOne
 title: H1-4420
-program: salesforce
+program: multi
 location: London, UK
 art: https://hackathon-photos.hackerone-user-content.com/jg705t0bxsctn9nwruen01l6yj31
-leaderboard: https://leaderboards.hackerone.live/lhe-h1-4420-salesforce-uk-2023
-bounty: 496000
+leaderboard: https://leaderboards.hackerone.live/lhe-h1-4420-combined-uk-2023
+bounty: 1336547
+links:
+  - H1-4420-1
+  - H1-4420-2
 awards:
   mvh: "inhibitor181"
-  first: "82af5ddffbb795"
-  second: "egrep"
-  third: "ryotak"
   exterminator: 
     - "kcho"
     - "niemand_sec"
@@ -21,6 +21,5 @@ awards:
     - "tomAnthony"
 evidence:
   awards: https://x.com/Hacker0x01/status/1673751895184142348
-  program: https://x.com/Hacker0x01/status/1719025195749707839
-comment: |
-  The awrds for first and second place do not seem to match the leaderboard. We have gone with the final leaderboard standings for this event.
+  program: 
+comment: 
