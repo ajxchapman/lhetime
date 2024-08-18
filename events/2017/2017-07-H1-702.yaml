@@ -1,0 +1,32 @@
+platform: HackerOne
+title: H1-702
+program: multi
+location: Las Vegas, Nevada, USA 
+art: 
+leaderboard: 
+bounty: 250000
+links:
+  - H1-702-1
+  - H1-702-2
+  - H1-702-3
+awards:
+  mvh: "fransrosen"
+  exalted: "try_to_hack"
+  baby: "cablej"
+  assassin: "cablej"
+  exterminator: "cache-money"
+  hero: "filedescriptor"
+  top_team:
+   - "avlidienbrunn"
+   - "fransrosen"
+   - "jelmer"
+   - "zetatwo"
+evidence:
+  awards: https://www.hackerone.com/ethical-hacker/what-happens-vegasstays-hacktivity
+  program: https://www.hackerone.com/ethical-hacker/what-happens-vegasstays-hacktivity
+comment: |
+  Programs appeared to include:
+    Uber
+    Zenefits
+    Mapbox?
+  However, it is unclear which program was the focus of which day
