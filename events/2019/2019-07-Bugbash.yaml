@@ -1,0 +1,16 @@
+platform: Bugcrowd
+title: Bug Bash
+program: atlassian
+location: San Francisco, California, USA
+art: 
+leaderboard: https://bugcrowd.com/bug_bashes/atlassian-sfc2019
+bounty: 232875
+links:
+awards:
+  first: "dawgyg"
+  second: "zlz"
+  third: "charlieeriksen"
+evidence:
+  awards:
+  program:
+comment:

@@ -1,0 +1,16 @@
+platform: Bugcrowd
+title: Bug Bash
+program: arlo
+location: San Francisco, California, USA
+art: 
+leaderboard: https://bugcrowd.com/bug_bashes/arlo-rsa-bash
+bounty: 44000
+links:
+awards:
+  first: "dogwhohacks"
+  second: "iangcarroll"
+  third: "jr0ch17"
+evidence:
+  awards:
+  program:
+comment:

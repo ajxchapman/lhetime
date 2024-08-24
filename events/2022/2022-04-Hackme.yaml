@@ -1,0 +1,19 @@
+platform: YesWeHack
+title: Hack Me I'm Famous
+program:
+  - doctolib
+  - blablacar
+  - malt
+location: 
+art: https://cdn-yeswehack.com/event/banner/41a0f7b6-1d5c-4a97-b297-102e659b4357
+leaderboard: https://event.yeswehack.com/events/hack-me-im-famous
+bounty:
+links:
+awards:
+  first: "smaury"
+  second: "myst404" 
+  third: "icare"
+evidence:
+  awards: 
+  program: https://www.yeswehack.com/news/the-first-live-bug-bounty-for-european-scale-ups-and-unicorns
+comment:

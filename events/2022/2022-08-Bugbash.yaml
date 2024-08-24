@@ -1,0 +1,16 @@
+platform: Bugcrowd
+title: Bug Bash
+program: indeed
+location: Las Vegas, Nevada, USA
+art: 
+leaderboard: https://bugcrowd.com/bug_bashes/indeed-bash-2022
+bounty: 214205
+links:
+awards:
+  first: "nagli"
+  second: "ankitsingh"
+  third: "vinothkumar"
+evidence:
+  awards: https://www.bugcrowd.com/blog/the-vegas-bug-bash-2022-recap/
+  program:
+comment:

@@ -1,0 +1,22 @@
+platform: YesWeHack
+title: "Hack Me I'm Famous #2"
+program: louisvuitton
+location: Paris, France
+art: https://cdn-yeswehack.com/event/banner/2d88762c-858d-41d8-8b82-7dde9630685e
+leaderboard: https://event.yeswehack.com/events/hack-me-im-famous-2
+bounty:
+links:
+awards:
+  first: "godiego"
+  second: "djurado" 
+  third: "hipotermia"
+  collab:
+   - "godiego"
+   - "djurado"
+   - "hipotermia"
+  impact: "hakupiku"
+  firstbug: "godiego"
+evidence:
+  awards: https://www.yeswehack.com/news/louis-vuitton-live-hacking-event
+  program: https://www.yeswehack.com/news/louis-vuitton-live-hacking-event
+comment:

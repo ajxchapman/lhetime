@@ -1,0 +1,16 @@
+platform: Bugcrowd
+title: Bug Bash
+program: atlassian
+location: Sydney, Australia
+art: 
+leaderboard: https://bugcrowd.com/bug_bashes/hacksyd-2018
+bounty: 127600
+links:
+awards:
+  first: "shubs"
+  second: "pnig0s"
+  third: "arneswinnen"
+evidence:
+  awards:
+  program:
+comment:
