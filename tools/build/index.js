@@ -5,6 +5,13 @@ import path from 'path';
 import puppeteer from 'puppeteer';
 import YAML from 'yaml';
 
+const DEBUG = true;
+
+const urlOptions = {
+    'bugcrowd.com' : {
+        height: 1080 * 2,
+    }
+}
 
 async function* walk(dir) {
     for await (const d of await fs.promises.opendir(dir)) {
@@ -37,10 +44,11 @@ async function processScreenshot(url, output) {
             width: 1920,
             height: 1080,
             deviceScaleFactor: 1,
+            ...(urlOptions[new URL(url).hostname] || {}),
         });
         await page.goto(url);
         await page.waitForNavigation({ timeout: 5000, waitUntil: 'networkidle2' }).catch(() => {});
-        await page.screenshot({ path: output });
+        await page.screenshot({ path: output, fullPage: true });
     }
     finally {
         await browser.close();
@@ -91,7 +99,7 @@ async function processAssets(event, keys) {
 
             await fs.promises.writeFile(`./assets/${key}/${hash}${ext}`, Buffer.from(await r.arrayBuffer()));
         }
-        if (content_type == 'text/html') {
+        if (content_type.startsWith('text/html')) {
             await processScreenshot(asset, `./assets/${key}/${hash}.png`);
         }
     }
@@ -152,6 +160,7 @@ async function main() {
         });
         await processYaml('./events/', async (event) => {
             events[event.id] = event;
+            [event.year, event.month] = event.id.split('-');
             processEventHackers(event, hackers);
             await processAssets(event, ['art', 'leaderboard']);
         });
@@ -163,13 +172,33 @@ async function main() {
         await fs.promises.stat('./hackers').catch(() => fs.promises.mkdir('./hackers'));
         for (let hacker_id of Object.keys(hackers)) {
             let hacker = hackers[hacker_id];
-            await fs.promises.writeFile(`./hackers/${hacker_id}.json`, JSON.stringify(hacker, null, 2));
+            await fs.promises.writeFile(`./hackers/${hacker_id}.json`, JSON.stringify(hacker, null, DEBUG ? 2 : null));
         }
-        // Output event objects to dist
+        
+        const hackerIndex = Array.from(Object.keys(hackers)).map(id => { 
+            if (hackers[id].id != id) {
+                return null;
+            }
+            return { id, alias: getList(hackers[id].alias)}
+        }).filter(e => e != null);
+        await fs.promises.writeFile(`./hackerIndex.json`, JSON.stringify(hackerIndex, null, DEBUG ? 2 : null));
+
         await fs.promises.stat('./events').catch(() => fs.promises.mkdir('./events'));
         for (let event of Object.values(events)) {
-            await fs.promises.writeFile(`./events/${event.id}.json`, JSON.stringify(event, null, 2));
+            await fs.promises.writeFile(`./events/${event.id}.json`, JSON.stringify(event, null, DEBUG ? 2 : null));
         }
+
+        const eventIndex = Object.keys(events).map(id => { 
+            return { 
+                id, 
+                platform: events[id].platform, 
+                title: events[id].title,
+                year: events[id].year,
+                month: events[id].month,
+            };
+        });
+        await fs.promises.writeFile(`./eventIndex.json`, JSON.stringify(eventIndex, null, DEBUG ? 2 : null));
+
     }
     finally {
         process.chdir(cwd);
